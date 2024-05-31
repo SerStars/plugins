@@ -1,3 +1,4 @@
 {
-  "FreeAppIcon": "https://raw.githubusercontent.com/SerStars/enmity-appicon/README/dist/FreeAppIcons.js"
+  "FreeAppIcon": "https://raw.githubusercontent.com/SerStars/enmity-appicon/README/dist/FreeAppIcons.js",
+  "HideChatIcons": "https://raw.githubusercontent.com/SerStars/HideChatButtons/README/dist/HideChatButtons.js"
 }
